@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: excalidraw
-          image: ankit80/excalidraw-app:latest
+          image: itspratham10/whiteboard-app:latest
           ports:
             - containerPort: 3000
 ---

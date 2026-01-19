@@ -21,7 +21,7 @@ A **drawing application** that lets you create and manipulate drawings effortles
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/AnkitKumar8080/excalidraw-clone.git
+   git clone https://github.com/itspratham10/whiteboard-app.git
    cd excalidraw-clone
    ```
 
