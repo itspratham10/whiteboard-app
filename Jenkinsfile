@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     environment {
-    DOCKER_IMAGE = 'ankit80/excalidraw-app'
+    DOCKER_IMAGE = 'itspratham10/whiteboard-app'
     DOCKER_CREDENTIALS = 'docker-hub-credentials'
     GCP_CREDENTIALS = 'gcp-credentials'
     GCP_PROJECT_ID = "${env.GCP_PROJECT_ID}"
